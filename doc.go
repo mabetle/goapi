@@ -1,0 +1,2 @@
+// mabetle goapi.
+package goapi
